@@ -1,0 +1,107 @@
+.scene{
+    background-color: rgba(224,241,231,255);
+    height: 300px;
+}
+
+.box{
+  background-color: white;
+  margin: 150px auto;
+  width: 450px;
+  height: auto;
+  padding: 30px;
+  padding-top: 15px;
+}
+
+.contact{
+    font-family: Karla;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.name-box{
+    width: 200px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    border-radius: 6px;
+    border: 1px solid rgb(201, 187, 187);
+    cursor: text;
+
+}
+
+.message-box{
+    width: 426px;
+    height: 100px;
+    border-radius: 6px;
+    border: 1px solid rgb(201, 187, 187);
+    text-wrap: 426px;
+}
+
+.query{
+    margin-bottom: 12px;
+    border-radius: 4px;
+    
+}
+
+.email-box{
+    width:426px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    border-radius: 6px;
+    border: 1px solid rgb(201, 187, 187);
+
+}
+.xyz{
+    display: inline-block;
+    font-family: karla;
+    margin-bottom: 10px;
+    margin-right: 14px;
+}
+
+.abc{
+    font-family: karla;
+    margin-bottom: 10px;
+}
+
+.radio-container{
+
+
+        display: inline-block;
+        border: 1px solid rgb(201, 187, 187);
+        padding: 5px;
+        border-radius: 6px;
+       
+}
+   
+
+.buttons{
+    font-family: karla;
+    width: 426px;
+    height: 40px;
+    border-radius: 6px;
+    background-color: rgba(11,126,105,255);
+    color: white;
+   margin-left: 1%;
+   margin-right: 1%;
+   cursor: pointer;
+}
+
+
+
+ 
+input{
+    accent-color: rgba(11,126,105,255);
+
+}
+
+
+button :active{
+    background-color: rgba(224,241,231,255);
+
+}
+
+
+
+
+
+
+
